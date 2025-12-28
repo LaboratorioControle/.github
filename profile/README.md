@@ -1,85 +1,75 @@
-# 📘 Guia de Utilização do GitHub na Organização
+# 🎛️ GitHub – Laboratório de Controle • UFLA
 
-Este repositório contém diretrizes e materiais de apoio para utilização do GitHub dentro da organização.  
-Aqui você encontra os **tópicos principais** sobre criação, organização e manutenção de repositórios, times e projetos.
+Este repositório (e os demais vinculados a esta organização) tem como objetivo **centralizar e organizar projetos relacionados às disciplinas de Controle da UFLA**, incluindo:
 
----
+- Projetos desenvolvidos em disciplinas de graduação
+- Trabalhos Práticos e Projetos Integradores
+- Trabalhos de Conclusão de Curso (TCCs)
+- Projetos de Pós-Graduação
+- Materiais de pesquisa relacionados à área de Controle
 
-## 📌 1. Visão Geral da Organização no GitHub
-- Estrutura da organização
-- Distribuição dos times
-- Padrões gerais de uso
-- Responsabilidades dos membros
-- Governança e boas práticas
-
----
-
-## 🏗️ 2. Criação de Repositórios
-- Quando criar um novo repositório
-- Padrão de nomenclatura
-- Descrição obrigatória
-- Seleção de template (se aplicável)
-- Configurações iniciais recomendadas:
-  - Branch principal
-  - Issues
-  - Wiki
-- Configuração de proteção de branches
+A ideia é criar um ambiente estruturado, acessível e colaborativo, facilitando:
+- o desenvolvimento de código,
+- o controle de versão,
+- o compartilhamento de conhecimento,
+- e a continuidade de projetos acadêmicos.
 
 ---
 
-## 👥 3. Criação e Gerenciamento de Times
-- Quando criar um Team
-- Estrutura recomendada de times
-- Inclusão de membros
-- Permissões:
-  - Read
-  - Write
-  - Maintain
-  - Admin
-- Boas práticas de acesso
+## 📚 Materiais de Apoio – Uso do GitHub e Comandos Git
+
+Este espaço também servirá como **base de aprendizado** sobre Git e GitHub, com conteúdo em vídeo e material complementar.
+
+Os materiais serão divididos em dois grupos principais:
 
 ---
 
-## 📋 4. Projects e Templates
-- Quando utilizar GitHub Projects
-- Benefícios para organização e planejamento
-- Criação de um Project
-- Criação a partir de template
-- Organização de colunas
-- Integração com Issues e Pull Requests
+# 👨‍🎓 Para Estudantes
+
+Conteúdos voltados para alunos que irão **utilizar o GitHub nos projetos das disciplinas, TCCs e pesquisas**.
+
+## 🎥 Conteúdos que serão disponibilizados
+- O que é Git e GitHub?  
+- Como criar e configurar sua conta
+- Como acessar os repositórios do laboratório
+- Clonar um repositório
+- Estrutura básica de um repositório do laboratório
+- Introdução aos principais comandos Git:
+  - `git clone`
+  - `git status`
+  - `git add`
+  - `git commit`
+  - `git push`
+  - `git pull`
+- Como trabalhar em equipe no mesmo repositório
+- Boas práticas para estudantes:
+  - organização do código
+  - criação de commits claros
+  - uso adequado de branches
+- Como contribuir em projetos existentes
+- Como documentar seu projeto (README e arquivos adicionais)
 
 ---
 
-## 🔒 5. Visibilidade de Repositórios
-- Diferenças entre:
-  - Private
-  - Internal
-  - Public
-- Quando utilizar cada tipo
-- Como alterar visibilidade
-- Boas práticas de segurança
+# 🛠️ Para Administradores da Organização GitHub
+
+Conteúdo direcionado aos responsáveis por **gerenciar a organização, repositórios e usuários**.
+
+## 🎥 Conteúdos que serão disponibilizados
+- Estrutura da organização no GitHub
+- Como criar e organizar repositórios
+- Padrão de nomeação e organização
+- Como criar Teams e gerenciar permissões
+- Como adicionar e remover membros
+- Como criar Projects (Kanban) para acompanhamento
+- Templates de repositório
+- Definição e alteração de visibilidade (Private / Internal / Public)
+- Boas práticas de segurança e governança
+- Manutenção da organização:
+  - arquivamento de projetos antigos
+  - padronização de documentação
+  - limpeza e auditoria periódica
 
 ---
 
-## 🧭 6. Padrões e Boas Práticas
-- Estrutura mínima recomendada
-- Padrão de README
-- Padrão de branches
-- Padrão de commits
-- Versionamento e releases
-
----
-
-## 🧹 7. Manutenção de Repositórios
-- Responsabilidade dos times
-- Limpeza de repositórios inativos
-- Arquivamento de projetos
-- Evitando duplicidade
-- Revisões periódicas
-
----
-
-## 🎥 8. Materiais de Apoio
-- Vídeos de treinamento
-- Tutoriais complementares
-- Exemplos práticos
+Mais conteúdos e materiais serão adicionados ao longo do tempo conforme as necessidades do curso e do laboratório evoluírem.
