@@ -28,6 +28,8 @@ Os materiais serão divididos em dois grupos principais:
 
 Conteúdos voltados para alunos que irão **utilizar o GitHub nos projetos das disciplinas, TCCs e pesquisas**.
 
+Link de acesso: [Clique Aqui](https://drive.google.com/drive/folders/1oBqGdCXHMNSrpOkIdAtNiLvsfu1ex4J7?usp=sharing)
+
 ## 🎥 Conteúdos que serão disponibilizados
 - O que é Git e GitHub?  
 - Como criar e configurar sua conta
