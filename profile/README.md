@@ -1,6 +1,6 @@
 # 🎛️ GitHub – Laboratório de Controle • UFLA
 
-Este repositório (e os demais vinculados a esta organização) tem como objetivo **centralizar e organizar projetos relacionados às disciplinas de Controle da UFLA**, incluindo:
+Este espaço no Github tem como objetivo **centralizar e organizar projetos relacionados às disciplinas de Controle da UFLA**, incluindo:
 
 - Projetos desenvolvidos em disciplinas de graduação
 - Trabalhos Práticos e Projetos Integradores
@@ -18,15 +18,7 @@ A ideia é criar um ambiente estruturado, acessível e colaborativo, facilitando
 
 ## 📚 Materiais de Apoio – Uso do GitHub e Comandos Git
 
-Este espaço também servirá como **base de aprendizado** sobre Git e GitHub, com conteúdo em vídeo e material complementar.
-
-Os materiais serão divididos em dois grupos principais:
-
----
-
-# 👨‍🎓 Para Estudantes
-
-Conteúdos voltados para alunos que irão **utilizar o GitHub nos projetos das disciplinas, TCCs e pesquisas**.
+Com o objetivo de facilitar a navegação e a contribuição nos projetos, foram disponibilizados conteúdos gravados sobre Git e GitHub.
 
 Link de acesso: [Clique Aqui](https://drive.google.com/drive/folders/1oBqGdCXHMNSrpOkIdAtNiLvsfu1ex4J7?usp=sharing)
 
@@ -34,6 +26,8 @@ Link de acesso: [Clique Aqui](https://drive.google.com/drive/folders/1oBqGdCXHMN
 - O que é Git e GitHub?  
 - Como criar e configurar sua conta
 - Como acessar os repositórios do laboratório
+- Como acessar seu `Team`
+- Como trabalhar com os `Projects`
 - Clonar um repositório
 - Estrutura básica de um repositório do laboratório
 - Introdução aos principais comandos Git:
@@ -43,34 +37,6 @@ Link de acesso: [Clique Aqui](https://drive.google.com/drive/folders/1oBqGdCXHMN
   - `git commit`
   - `git push`
   - `git pull`
-- Como trabalhar em equipe no mesmo repositório
-- Boas práticas para estudantes:
-  - organização do código
-  - criação de commits claros
-  - uso adequado de branches
-- Como contribuir em projetos existentes
-- Como documentar seu projeto (README e arquivos adicionais)
-
----
-
-# 🛠️ Para Administradores da Organização GitHub
-
-Conteúdo direcionado aos responsáveis por **gerenciar a organização, repositórios e usuários**.
-
-## 🎥 Conteúdos que serão disponibilizados
-- Estrutura da organização no GitHub
-- Como criar e organizar repositórios
-- Padrão de nomeação e organização
-- Como criar Teams e gerenciar permissões
-- Como adicionar e remover membros
-- Como criar Projects (Kanban) para acompanhamento
-- Templates de repositório
-- Definição e alteração de visibilidade (Private / Internal / Public)
-- Boas práticas de segurança e governança
-- Manutenção da organização:
-  - arquivamento de projetos antigos
-  - padronização de documentação
-  - limpeza e auditoria periódica
 
 ---
 
